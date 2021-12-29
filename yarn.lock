@@ -1550,9 +1550,9 @@ __metadata:
     lodash.template: ^4.5.0
     scule: ^0.2.1
     upath: ^2.0.1
-    vite: ^2.7.7
+    vite: ^2.7.9
     vite-plugin-windicss: ^1.6.1
-    windicss: ^3.4.1
+    windicss: ^3.4.2
   languageName: unknown
   linkType: soft
 
@@ -12447,9 +12447,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^2.7.7":
-  version: 2.7.7
-  resolution: "vite@npm:2.7.7"
+"vite@npm:^2.7.9":
+  version: 2.7.9
+  resolution: "vite@npm:2.7.9"
   dependencies:
     esbuild: ^0.13.12
     fsevents: ~2.3.2
@@ -12472,7 +12472,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: ce7fd044b9bf29cad6a4ac0505b28d6f75cb461362d678898e78db8ff57763358c35914058c2c563548772fd714713dd8b61248d99759b64ef7576c12cd02401
+  checksum: 6a13e0678fec4d5811d4e1bc796a98644856e4d7a56b5e56dbe513834c871d2313a065e4b82469de910568c0d6c762133517c6b7bccff4514f9acf5ed47f1f61
   languageName: node
   linkType: hard
 
@@ -12837,12 +12837,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"windicss@npm:^3.4.1":
-  version: 3.4.1
-  resolution: "windicss@npm:3.4.1"
+"windicss@npm:^3.4.2":
+  version: 3.4.2
+  resolution: "windicss@npm:3.4.2"
   bin:
     windicss: cli/index.js
-  checksum: 18f7569aa87c316d6887cba9ac5116a733c7b76facbb82bbf959dc5563b4714661e4eac1423fbd994b5359d6673ecfcaca3347e045d17921eef8e8a6fda306df
+  checksum: 74f90e08a725602f5900dbd8318aba3fed1bf0acfc057095e81194d25d61cd1df16cf2ccf507d13450bc1524e7c18838e6aac25b376e795f2db8b30e206cc362
   languageName: node
   linkType: hard
 
