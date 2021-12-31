@@ -168,6 +168,15 @@
           <NTextInput n="lime5" icon="carbon:password" type="password" placeholder="Your password..." />
         </div>
       </NCard>
+      <NCard class="p4">
+        <div class="n-header-upper">
+          TextArea
+        </div>
+        <div class="flex flex-col gap-2">
+          <NTextArea  n="lime5" :rows="3" :minlength="10" :maxlength="30" placeholder="Your content..." />
+          <NTextArea  n="lime5" :rows="3" :disabled="true" placeholder="Your content..." />
+        </div>
+      </NCard>
 
       <NCard class="p4">
         <div class="n-header-upper">
